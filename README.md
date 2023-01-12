@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba dem M2
+Este es un repositorio de prueba de M2
